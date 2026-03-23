@@ -1,0 +1,17 @@
+packages:
+  "framer-motion": "Page transitions and scroll-triggered animations for premium feel"
+  "@hookform/resolvers": "Zod validation for admin forms"
+  "react-hook-form": "Form state management"
+
+images:
+  - path: "artifacts/jas-sneakers/public/images/hero-sneaker.png"
+    description: "A single ultra-premium modern streetwear sneaker floating in pure black space, illuminated by dramatic golden-yellow rim lighting, cinematic, hyper-realistic, 8k resolution"
+    aspect_ratio: "16:9"
+  - path: "artifacts/jas-sneakers/public/images/about-store.png"
+    description: "A dark luxury minimalist sneaker store interior, matte black walls, glowing yellow neon accents, premium footwear displayed on floating glass shelves, moody atmosphere"
+    aspect_ratio: "16:9"
+
+notes:
+  - using generated API hooks from @workspace/api-client-react
+  - wouter for routing
+  - full dark mode theme with yellow accents
